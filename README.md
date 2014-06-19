@@ -1,6 +1,6 @@
 # rFactor2 UniquePits
 
-Assigns one car to one (unique) pit and one (unique) garage. 
+Assigns each car to one (unique) pit and one (unique) garage. 
 
 Ideal for leagues, since everyone needs their own pit to avoid conflicts.
 
