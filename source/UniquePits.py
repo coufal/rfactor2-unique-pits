@@ -66,6 +66,11 @@ class UniquePits():
 		#self.fname_output=fname.replace(".AIW", "_new.AIW").replace(".aiw", "_new.AIW")
 		self.pits=[]
 		self.garages=[]
+		self.print_start_msg()
+		
+	def print_start_msg(self):
+		version="1.0"
+		print("rFactor2 Unique Pits v{} by Dennis Coufal\n".format(version))
 	
 	#approximation of an empty position automatically created by DevMode
 	def is_empty_position(self, str):
